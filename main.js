@@ -1,12 +1,3 @@
-// This is what I was thinking for the output to the DOM
-
-// let screen = document.querySelector("#display")
-// screen.value = ""
-// let button_7 = document.querySelector("#7_key")
-// button_7.addEventListener("click", function(event) {
- //   dog.value += "7"})
-
-
 const calculator = {
     displayValue: '0',
     firstOperand: null,
